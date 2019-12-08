@@ -1,0 +1,2 @@
+# prueba
+Aprender usar Git
